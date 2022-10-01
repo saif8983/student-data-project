@@ -8,6 +8,7 @@ import ManageStudents from './Components/ManageStudents';
 function App() {
   return (
     <>
+    {/*That is layout of app i used react-router-dom*/}
     <BrowserRouter>
     <div class="container">
   <div class="Navbar"><Navbar/></div>
